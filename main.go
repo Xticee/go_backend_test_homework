@@ -1,11 +1,11 @@
 package main
 
 import (
-	"fmt"
+	"fmt" //2 com
 )
 
 func Add(a, b int) int {
-	return a + b
+	return a + b //fucking git
 }
 
 func main() {
